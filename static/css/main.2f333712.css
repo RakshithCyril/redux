@@ -1,0 +1,2 @@
+.chat-container{display:flex;flex-direction:column;gap:10px}.message-container{border-radius:10px;display:inline-block;max-width:60%;padding:10px}.user-message{align-self:flex-start;background-color:#dcf8c6}.bot-message{align-self:flex-end;background-color:#e6e6e6}.message-content{margin:0}
+/*# sourceMappingURL=main.2f333712.css.map*/

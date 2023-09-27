@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux/static/css/main.2f333712.css",
+    "main.js": "/redux/static/js/main.de3aded0.js",
+    "index.html": "/redux/index.html",
+    "main.2f333712.css.map": "/redux/static/css/main.2f333712.css.map",
+    "main.de3aded0.js.map": "/redux/static/js/main.de3aded0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f333712.css",
+    "static/js/main.de3aded0.js"
+  ]
+}
